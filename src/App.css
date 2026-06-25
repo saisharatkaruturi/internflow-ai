@@ -1,0 +1,6 @@
+/* Reset any leftover template styles so our full-width layout works as expected. */
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
